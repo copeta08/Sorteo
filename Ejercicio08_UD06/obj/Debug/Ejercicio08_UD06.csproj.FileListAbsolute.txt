@@ -1,0 +1,10 @@
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\bin\Debug\Ejercicio08_UD06.exe.config
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\bin\Debug\Ejercicio08_UD06.exe
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\bin\Debug\Ejercicio08_UD06.pdb
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.csprojAssemblyReference.cache
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.Form1.resources
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.Properties.Resources.resources
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.csproj.GenerateResource.cache
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.csproj.CoreCompileInputs.cache
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.exe
+C:\Users\Mare Nostrum\OneDrive - I.E.S. MARE NOSTRUM\Escritorio\Mare Nostrum\DAM\Programación\UD06\Ejercicios\Ejercicio08_UD06\Ejercicio08_UD06\obj\Debug\Ejercicio08_UD06.pdb
