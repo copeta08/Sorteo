@@ -19,7 +19,7 @@ namespace Ejercicio08_UD06
         ArrayList numSorteo = new ArrayList(kNum);
         ArrayList numJugador = new ArrayList(kNum);
 
-        void realizarSorteo(ArrayList numerosSorteo)
+        void realizarSorteo(ArrayList numeroSorteo)
         {
             int cont, num;
             Random r = new Random();
